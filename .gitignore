@@ -1,0 +1,13 @@
+# OS Metadata & Junk Files
+desktop.ini
+Desktop.ini
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Node & Build artifacts (if any local builds are performed)
+node_modules/
+dist/
+.next/
+.cache/
