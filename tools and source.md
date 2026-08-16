@@ -22,4 +22,12 @@ A curated collection of tools and resources (video collections, photos, animated
 
 ---
 
+### [Google Stitch](https://stitch.withgoogle.com)
+
+- **Link:** [https://stitch.withgoogle.com](https://stitch.withgoogle.com)
+- **Pricing:** Free
+- **Description:** A web-based tool by Google for creating and stitching panoramic images and interactive photo experiences.
+
+---
+
 [⬅️ Back to Main Repository](./README.md)
