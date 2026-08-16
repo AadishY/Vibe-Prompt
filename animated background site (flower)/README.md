@@ -13,9 +13,7 @@
 ![Orbit Flower Mouse Morph Screenshot](./preview.webp)
 
 ### 🎥 Live Video Demonstration
-<video src="./preview.mp4" controls autoplay loop muted playsinline width="100%">
-  <source src="./preview.mp4" type="video/mp4">
-</video>
+<video src="https://raw.githubusercontent.com/AadishY/Vibe-Prompt/main/animated%20background%20site%20(flower)/preview.mp4" controls autoplay loop muted playsinline width="100%"></video>
 
 *Full-screen single-file interactive poster featuring custom typography, entrance choreography, pixel-art halftone lilies, and dynamic real-time canvas mouse morph-reveal trail.*
 
