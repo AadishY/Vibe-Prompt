@@ -16,6 +16,7 @@ These assets follow the locked 2D animation background art style (opaque gouache
 | [`music player.webp`](./music%20player.webp) | Daytime Studio Flatbed Tape Deck | 2730 × 1536 | 16:9 | Indie Folk, 90s Alternative, Acoustic Morning |
 | [`music player2.webp`](./music%20player2.webp) | Study Desk Tape Player & Books | 2730 × 1536 | 16:9 | Lo-Fi Beats to Study To, Classical Chill |
 | [`spider.webp`](./spider.webp) | Cyberpunk Neon Skyline Leap of Faith | 4200 × 1760 | 21:9 Ultrawide | Phonk, Cyberpunk Synth, High-Energy Electronic |
+| [`spider2.webp`](./spider2.webp) | Cyberpunk Neon City Dusk | 2048 × 1152 | 16:9 | Synthwave Horizon, Retro Electro, Chillwave |
 | [`study.webp`](./study.webp) | Cozy Late-Night Study Lamp & Cassettes | 1672 × 941 | 16:9 | Study Lo-Fi, Deep Focus, Rain & Coffee |
 | [`table.webp`](./table.webp) | Sunlit Balcony Morning Table | 2976 × 1408 | 21:9 Ultrawide | Coffee Shop Acoustic, Bossa Nova, Morning Chill |
 
@@ -91,7 +92,18 @@ These assets follow the locked 2D animation background art style (opaque gouache
 
 ---
 
-### 7. 🕯️ Cozy Late-Night Study Lamp & Cassettes (`study.webp`)
+### 7. 🌆 Cyberpunk Neon City Dusk (`spider2.webp`)
+
+![Cyberpunk Neon City Dusk](./spider2.webp)
+
+- **File Name:** `spider2.webp`
+- **Resolution:** `2048 × 1152` (16:9 Landscape)
+- **Visual Description:** A gorgeous retro-futuristic cyberpunk cityscape at dusk/night, filled with glowing pink and blue neon signs, futuristic building designs, and a glowing synthwave sunset on the horizon.
+- **Recommended Use:** Synthwave Horizon, retro electro, chillwave, cyberpunk playlists.
+
+---
+
+### 8. 🕯️ Cozy Late-Night Study Lamp & Cassettes (`study.webp`)
 
 ![Cozy Late-Night Study Lamp & Cassettes](./study.webp)
 
@@ -102,7 +114,7 @@ These assets follow the locked 2D animation background art style (opaque gouache
 
 ---
 
-### 8. ☕ Sunlit Balcony Morning Table (`table.webp`)
+### 9. ☕ Sunlit Balcony Morning Table (`table.webp`)
 
 ![Sunlit Balcony Morning Table](./table.webp)
 
