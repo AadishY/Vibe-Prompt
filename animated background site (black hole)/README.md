@@ -1,16 +1,20 @@
 # 🌌 Animated Background Web3 Hero (Black Hole)
 
+## **Example Live Site:** [Click Here](https://ai.studio/apps/54d258dc-7682-4487-8e1b-5ea98c2c23a3?fullscreenApplet=true)  
 > **Source / Platform Inspiration:** [MotionSites AI](https://motionsites.ai/)  
 > **Ideal Coding Assistants:** [v0.dev](https://v0.dev/) • [Google AI Studio](https://aistudio.google.com/) • [Cursor](https://www.cursor.com/) • [Claude Artifacts](https://claude.ai/)
 
 ---
 
-## 🎥 Video Preview
+## 📸 Visual Previews
 
+### 🖼️ Still Image Preview
+![Black Hole Animated Hero Screenshot](./preview.webp)
+
+### 🎥 Live Video Demonstration
 <video src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260217_030345_246c0224-10a4-422c-b324-070b7c0eceda.mp4" poster="./preview.webp" controls autoplay loop muted playsinline width="100%">
   <source src="./preview.mp4" type="video/mp4">
   <source src="https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260217_030345_246c0224-10a4-422c-b324-070b7c0eceda.mp4" type="video/mp4">
-  <img src="./preview.webp" alt="Black Hole Animated Hero Preview" />
 </video>
 
 *Full-screen pure black Web3 landing page hero featuring a looping cosmic black hole video background with 50% dark overlay, General Sans typography, subtle top-glow layered pill buttons, and gradient clip heading.*

@@ -1,16 +1,20 @@
 # 🌸 Animated Background Site — Orbit (Flower with Mouse Morph)
 
+## **Example Live Site :** [Click Here](https://ai.studio/apps/256edb7e-a015-49c8-a1bb-be86c4ea3f92?fullscreenApplet=true)  
 > **Concept:** Orbit — Secure System (Pixel-Art Lily Full-Viewport Interactive Poster)  
 > **Source / Platform Inspiration:** [MotionSites AI](https://motionsites.ai/)  
 > **Ideal Coding Assistants:** [Claude 3.7 Sonnet / Opus](https://claude.ai/) • [v0.dev](https://v0.dev/) • [Google AI Studio](https://aistudio.google.com/) • [Cursor](https://www.cursor.com/)
 
 ---
 
-## 🎥 Video Preview
+## 📸 Visual Previews
 
-<video src="./preview.mp4" poster="./preview.webp" controls autoplay loop muted playsinline width="100%">
+### 🖼️ Still Image Preview
+![Orbit Flower Mouse Morph Screenshot](./preview.webp)
+
+### 🎥 Live Video Demonstration
+<video src="./preview.mp4" controls autoplay loop muted playsinline width="100%">
   <source src="./preview.mp4" type="video/mp4">
-  <img src="./preview.webp" alt="Orbit Flower Mouse Morph Preview" />
 </video>
 
 *Full-screen single-file interactive poster featuring custom typography, entrance choreography, pixel-art halftone lilies, and dynamic real-time canvas mouse morph-reveal trail.*

@@ -14,8 +14,8 @@ Each folder contains the complete blueprint: **locked artwork prompts**, **archi
 |---|---|:---:|:---:|:---:|
 | 🎵 Audio & Vibes | **Viral Radio Site (Playlist)** | <img src="./viral%20radio%20site%20(playlist)/preview.png" width="220" alt="Viral Radio Player Preview"/> | [📁 View Prompt](./viral%20radio%20site%20(playlist)/) | [🔗 Runable Playlist](https://playlist.runable.site/) |
 | ⚡ Landing Pages & UI | **General Good Frontend Prompt** | <img src="./general%20good%20frontend%20prompt/preview.png" width="220" alt="Frontend Meta Prompt Preview"/> | [📁 View Prompt](./general%20good%20frontend%20prompt/) | [🔗 AI Studio](https://aistudio.google.com/) • [🔗 v0.dev](https://v0.dev/) |
-| 🌌 Web3 & 3D Motion | **Animated Background Site (Black Hole)** | <img src="./animated%20background%20site%20(black%20hole)/preview.webp" width="220" alt="Black Hole Animated Hero Preview"/> | [📁 View Prompt](./animated%20background%20site%20(black%20hole)/) | [🔗 MotionSites](https://motionsites.ai/) |
-| 🌸 Web3 & 3D Motion | **Animated Background Site (Flower)** | <img src="./animated%20background%20site%20(flower)/preview.webp" width="220" alt="Flower Animated Hero Preview"/> | [📁 View Prompt](./animated%20background%20site%20(flower)/) | [🔗 MotionSites](https://motionsites.ai/) |
+| 🌌 Web3 & 3D Motion | **Animated Background Site (Black Hole)** | <img src="./animated%20background%20site%20(black%20hole)/preview.webp" width="220" alt="Black Hole Animated Hero Preview"/> | [📁 View Prompt](./animated%20background%20site%20(black%20hole)/) | [🔗 Live Applet](https://ai.studio/apps/54d258dc-7682-4487-8e1b-5ea98c2c23a3?fullscreenApplet=true) |
+| 🌸 Web3 & 3D Motion | **Animated Background Site (Flower)** | <img src="./animated%20background%20site%20(flower)/preview.webp" width="220" alt="Flower Animated Hero Preview"/> | [📁 View Prompt](./animated%20background%20site%20(flower)/) | [🔗 Live Applet](https://ai.studio/apps/256edb7e-a015-49c8-a1bb-be86c4ea3f92?fullscreenApplet=true) |
 
 ---
 
