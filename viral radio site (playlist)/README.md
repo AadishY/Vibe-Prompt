@@ -40,7 +40,7 @@
 
 | # | What | Where to get it |
 |---|------|-----------------|
-| 1 | **Artwork — landscape** (~1672×941) | Generate it. One scene, edge to edge. |
+| 1 | **Artwork — landscape** (~1672×941) | Generate it, or use ready-made scenes from [📁 Visual Assets Gallery](./assets/). |
 | 2 | **Artwork — portrait** (~941×1672) | Generate the **same scene** recomposed vertically. Not a crop — a crop kills the composition on phones. |
 | 3 | **A logotype PNG** with transparent background | Your site’s name, drawn. Not a font. |
 

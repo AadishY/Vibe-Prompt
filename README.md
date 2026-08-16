@@ -4,6 +4,8 @@ A curated collection of production-ready prompts to build aesthetic, viral, and 
 
 Each folder contains the complete blueprint: **locked artwork prompts**, **architecture & UI generation prompts**, **live example links**, and **UI previews**.
 
+> 🛠️ **Looking for Design Tools, Video Loops & Prompts?** Check out our [**Curated Tools & Sources Directory**](./tools%20and%20source.md).
+
 ---
 
 ## 📚 Prompt Gallery & Index
@@ -11,6 +13,9 @@ Each folder contains the complete blueprint: **locked artwork prompts**, **archi
 | Category | Site Concept | Preview | Prompt & Guide | Live Example |
 |---|---|:---:|:---:|:---:|
 | 🎵 Audio & Vibes | **Viral Radio Site (Playlist)** | <img src="./viral%20radio%20site%20(playlist)/preview.png" width="220" alt="Viral Radio Player Preview"/> | [📁 View Prompt](./viral%20radio%20site%20(playlist)/) | [🔗 Runable Playlist](https://playlist.runable.site/) |
+| ⚡ Landing Pages & UI | **General Good Frontend Prompt** | <img src="./general%20good%20frontend%20prompt/preview.png" width="220" alt="Frontend Meta Prompt Preview"/> | [📁 View Prompt](./general%20good%20frontend%20prompt/) | [🔗 AI Studio](https://aistudio.google.com/) • [🔗 v0.dev](https://v0.dev/) |
+| 🌌 Web3 & 3D Motion | **Animated Background Site (Black Hole)** | <img src="./animated%20background%20site%20(black%20hole)/preview.webp" width="220" alt="Black Hole Animated Hero Preview"/> | [📁 View Prompt](./animated%20background%20site%20(black%20hole)/) | [🔗 MotionSites](https://motionsites.ai/) |
+| 🌸 Web3 & 3D Motion | **Animated Background Site (Flower)** | <img src="./animated%20background%20site%20(flower)/preview.webp" width="220" alt="Flower Animated Hero Preview"/> | [📁 View Prompt](./animated%20background%20site%20(flower)/) | [🔗 MotionSites](https://motionsites.ai/) |
 
 ---
 
@@ -20,10 +25,12 @@ Every curated site prompt is organized in its own dedicated folder containing it
 
 ```text
 ├── README.md                                  # Main repository index & directory
+├── tools and source.md                        # Curated tools, video/photo libraries & prompt hubs
+├── agent.md                                   # AI agent paired-programming instructions
 └── [site-type-folder]/                        # Category / Site name
     ├── README.md                              # Complete prompt guide, art prompt, and code prompt
     ├── preview.png                            # UI preview screenshot
-    └── [extra-assets]                         # Reference screenshots & assets
+    └── assets/                                # (Optional) Generated visual assets & previews
 ```
 
 ---
