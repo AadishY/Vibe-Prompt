@@ -4,8 +4,8 @@ A curated collection of production-ready prompts to build aesthetic, viral, and 
 
 Each folder contains the complete blueprint: **locked artwork prompts**, **architecture & UI generation prompts**, **live example links**, and **UI previews**.
 
-## 🔧 Curated Tools & Sources — Design assets, video loops & prompts
-Need ready-to-use design tools, royalty-free video/photo libraries, icon packs, and prompt hubs? Explore the [**Curated Tools & Sources Directory**](./tools%20and%20source.md) for categorized links, quick usage notes, and recommended prompts to speed up your workflow.
+> 🛠️ **Looking for Design Tools, Video Loops & Prompts?** Check out our [**Curated Tools & Sources Directory**](./tools%20and%20source.md).
+
 
 ---
 
@@ -13,14 +13,14 @@ Need ready-to-use design tools, royalty-free video/photo libraries, icon packs, 
 
 | Category | Site Concept | Preview | Prompt & Guide | Live Example |
 |---|---|:---:|:---:|:---:|
-| 🎵 Audio & Vibes | **Viral Radio Site (Playlist)** | <img src="./viral%20radio%20site%20(playlist)/preview.png" width="220" alt="Viral Radio Player Preview"/> | [📁 View Prompt](./viral%20ra[...]
-| ⚡ Landing Pages & UI | **General Good Frontend Prompt** | <img src="./general%20good%20frontend%20prompt/preview.png" width="220" alt="Frontend Meta Prompt Preview"/> | [📁 View Prompt](./ge[...]
-| 🌌 Web3 & 3D Motion | **Animated Background Site (Black Hole)** | <img src="./animated%20background%20site%20(black%20hole)/preview.webp" width="220" alt="Black Hole Animated Hero Preview"/> |[...]
-| 🌸 Web3 & 3D Motion | **Animated Background Site (Flower)** | <img src="./animated%20background%20site%20(flower)/preview.webp" width="220" alt="Flower Animated Hero Preview"/> | [📁 View Pr[...]
-| 🌺 Web3 & 3D Motion | **Animated Background Site (Flower 2 — Vantage)** | <img src="./animated%20background%20site%20(flower%202)/preview.webp" width="220" alt="Flower 2 Animated Hero Previe[...]
-| 🚀 Space & Fluid Motion | **Animated Background Site (Space Fluid)** | <img src="./animated%20background%20site%20(space%20fluid)/preview.webp" width="220" alt="Space Fluid Animated Hero Previ[...]
-| 🏞️ Cinematic Parallax | **Cinematic Parallax Scroll (Mostar City)** | <img src="./cinematic%20parallax%20scroll%20(mostar%20city)/preview.webp" width="220" alt="Mostar City Parallax Preview[...]
-| ⚡ Web3 & AI Intelligence | **Animated Background Site (Cool — Intelligence Evolve)** | <img src="./animated%20background%20site%20(cool)/preview.webp" width="220" alt="Intelligence Evolve An[...]
+| 🎵 Audio & Vibes | **Viral Radio Site (Playlist)** | <img src="./viral%20radio%20site%20(playlist)/preview.png" width="220" alt="Viral Radio Player Preview"/> | [📁 View Prompt](./viral%20radio%20site%20(playlist)/) | [🔗 Runable Playlist](https://playlist.runable.site/) |
+| ⚡ Landing Pages & UI | **General Good Frontend Prompt** | <img src="./general%20good%20frontend%20prompt/preview.png" width="220" alt="Frontend Meta Prompt Preview"/> | [📁 View Prompt](./general%20good%20frontend%20prompt/) | [🔗 AI Studio](https://aistudio.google.com/) • [🔗 v0.dev](https://v0.dev/) |
+| 🌌 Web3 & 3D Motion | **Animated Background Site (Black Hole)** | <img src="./animated%20background%20site%20(black%20hole)/preview.webp" width="220" alt="Black Hole Animated Hero Preview"/> | [📁 View Prompt](./animated%20background%20site%20(black%20hole)/) | [🔗 Live Applet](https://ai.studio/apps/54d258dc-7682-4487-8e1b-5ea98c2c23a3?fullscreenApplet=true) |
+| 🌸 Web3 & 3D Motion | **Animated Background Site (Flower)** | <img src="./animated%20background%20site%20(flower)/preview.webp" width="220" alt="Flower Animated Hero Preview"/> | [📁 View Prompt](./animated%20background%20site%20(flower)/) | [🔗 Live Applet](https://ai.studio/apps/256edb7e-a015-49c8-a1bb-be86c4ea3f92?fullscreenApplet=true) |
+| 🌺 Web3 & 3D Motion | **Animated Background Site (Flower 2 — Vantage)** | <img src="./animated%20background%20site%20(flower%202)/preview.webp" width="220" alt="Flower 2 Animated Hero Preview"/> | [📁 View Prompt](./animated%20background%20site%20(flower%202)/) | [🔗 Live Applet](https://ai.studio/apps/2818b48f-fc8f-4436-a5a6-7d5ed90445e7?fullscreenApplet=true) |
+| 🚀 Space & Fluid Motion | **Animated Background Site (Space Fluid)** | <img src="./animated%20background%20site%20(space%20fluid)/preview.webp" width="220" alt="Space Fluid Animated Hero Preview"/> | [📁 View Prompt](./animated%20background%20site%20(space%20fluid)/) | [🔗 Live Applet](https://ai.studio/apps/0ab08df0-fff5-4a78-9f8f-9bdf93aa141b?fullscreenApplet=true) |
+| 🏞️ Cinematic Parallax | **Cinematic Parallax Scroll (Mostar City)** | <img src="./cinematic%20parallax%20scroll%20(mostar%20city)/preview.webp" width="220" alt="Mostar City Parallax Preview"/> | [📁 View Prompt](./cinematic%20parallax%20scroll%20(mostar%20city)/) | [🔗 Live Applet](https://ai.studio/apps/5a911177-9ef0-483f-8b67-ce7f532e5e9f?fullscreenApplet=true) |
+| ⚡ Web3 & AI Intelligence | **Animated Background Site (Cool — Intelligence Evolve)** | <img src="./animated%20background%20site%20(cool)/preview.webp" width="220" alt="Intelligence Evolve Animated Hero Preview"/> | [📁 View Prompt](./animated%20background%20site%20(cool)/) | [🔗 Live Applet](https://ai.studio/apps/a9a1be82-7dfc-4923-8521-ec0816e01fd0?fullscreenApplet=true) |
 
 ---
 
