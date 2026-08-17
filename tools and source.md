@@ -18,7 +18,7 @@ A curated collection of tools and resources (video collections, photos, animated
 
 - **Link:** [https://reactbits.dev/tools/background-studio](https://reactbits.dev/tools/background-studio)
 - **Pricing:** Free / Open Source
-- **Description:** An interactive studio to customize, configure, and export animated backgrounds (WebGL, Canvas, particles, fluid gradients, aurora waves, and light beams) directly as copy-paste React components.
+- **Description:** An interactive studio to customize, configure, and export animated backgrounds (WebGL, Canvas, particles, fluid gradients, aurora waves, and light beams) directly as copy-paste [...]
 
 ---
 
@@ -27,6 +27,14 @@ A curated collection of tools and resources (video collections, photos, animated
 - **Link:** [https://stitch.withgoogle.com](https://stitch.withgoogle.com)
 - **Pricing:** Free
 - **Description:** A web-based tool by Google for creating and stitching panoramic images and interactive photo experiences.
+
+---
+
+### [21st.dev](https://21st.dev/)
+
+- **Link:** [https://21st.dev/](https://21st.dev/)
+- **Pricing:** Free / Open Source
+- **Description:** A curated collection of developer resources, tutorials, and templates focused on modern web development and design patterns.
 
 ---
 
