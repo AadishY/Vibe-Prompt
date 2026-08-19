@@ -38,4 +38,36 @@ A curated collection of tools and resources (video collections, photos, animated
 
 ---
 
+### [Lenis](https://lenis.dev/)
+
+- **Link:** [https://lenis.dev/](https://lenis.dev/)
+- **Pricing:** Free / Open Source
+- **Description:** A lightweight, performant smooth scrolling library for web applications. Provides smooth scroll animations with physics-based easing for a polished user experience.
+
+---
+
+### [GSAP](https://gsap.com/)
+
+- **Link:** [https://gsap.com/](https://gsap.com/)
+- **Pricing:** Free / Premium (Pro)
+- **Description:** GreenSock Animation Platform - a powerful JavaScript animation library for creating high-performance animations, transitions, and interactive experiences across browsers.
+
+---
+
+### [Shaders](https://shaders.com/)
+
+- **Link:** [https://shaders.com/](https://shaders.com/)
+- **Pricing:** Free
+- **Description:** A collection of shader effects and visual tools for creating stunning visual effects and animations in web applications.
+
+---
+
+### [Watermelon UI](https://ui.watermelon.sh/)
+
+- **Link:** [https://ui.watermelon.sh/](https://ui.watermelon.sh/)
+- **Pricing:** Free
+- **Description:** A modern UI component library with beautifully designed, accessible, and customizable components for building modern web applications.
+
+---
+
 [⬅️ Back to Main Repository](./README.md)
